@@ -5,8 +5,8 @@
 package Manusia;
 
 /**
- * Nama: Rachma Fadilah Kunianto
- * NIM: 22166019
+ * Nama: Peni Nurul Fauzah
+ * NIM: 22166023
  * Kelas: SISTEM INFORMASI
  * Semester: Tiga
  * Mata Kuliah: PBO1
@@ -113,9 +113,9 @@ public class Siapa_Kamu {
 
         // UNTUK MAHASISWA
         Mahasiswa mahasiswa = new Mahasiswa();
-        mahasiswa.setNama("Rachma Fadilah Kurnianto");
+        mahasiswa.setNama("Peni Nurul Fauzah");
         mahasiswa.setUmur(20);
-        mahasiswa.setNIM("22166019");
+        mahasiswa.setNIM("22166023");
         mahasiswa.setKelas("PB01");
 
         System.out.println("\nNIM MAHASISWA : " + mahasiswa.getNIM());
